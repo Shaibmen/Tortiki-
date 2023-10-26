@@ -11,6 +11,7 @@ namespace Tortalettki
 
         public int Show()
         {
+            FirstMenu firstMenu = new FirstMenu();
             int pos = 3;
             ConsoleKeyInfo key;
             do
@@ -42,9 +43,15 @@ namespace Tortalettki
                     }
                 }
 
+                if (key.Key == ConsoleKey.Escape)
+                {
+                   
+                    firstMenu.ShowFirstMenu();
+                }
+
 
                 Console.SetCursorPosition(0, 10);
-            } while (key.Key != ConsoleKey.Spacebar);
+            } while (key.Key != ConsoleKey.Enter);
             return pos;
         }
     }

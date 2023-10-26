@@ -11,41 +11,35 @@ namespace Tortalettki
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine("adrgasgdags");
-            Console.WriteLine("asdvxc");
-            Console.WriteLine("-------------------");
-            FirstMenu();
-
-
-        }
-
-        static void FirstMenu()
-        {
-            Strelochki strelochki = new Strelochki();
-            Console.WriteLine("   Форма торта");
-            Console.WriteLine("   Размер торта");
-            Console.WriteLine("   Вкус коржей");
-            Console.WriteLine("   Количество коржей");
-            Console.WriteLine("   Глазурь");
-            Console.WriteLine("   Конец заказа");
-            Console.WriteLine(" ");
-            Console.WriteLine(" ");
-            Console.WriteLine("Цена: ");
-            Console.WriteLine("Ваш торт: ");
-            int position = strelochki.Show();
-
-            if (position == 3)
+            Torti tort = new Torti();
+            FirstMenu firstMenu = new FirstMenu();
+            firstMenu.ShowFirstMenu();
+            do
             {
+                Strelochki strelochki = new Strelochki();
 
-            }
-            
+                int position = strelochki.Show();
 
+                switch (position)
+                {
+                    case 3:
+                        form();
+                        foreach ( in tort)
+                        {
+
+                        }
+                        break;
+
+                }
+
+            } while (true);
 
         }
+
 
         static void form()
         {
+            Console.Clear();
             Console.WriteLine("Для выхода нажмите Escape");
             Console.WriteLine("Выберите пункт из меню");
             Console.WriteLine("-------------------");
@@ -55,3 +49,4 @@ namespace Tortalettki
         }
     }
 }
+

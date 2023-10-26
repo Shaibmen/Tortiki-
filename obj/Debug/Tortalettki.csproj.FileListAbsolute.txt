@@ -5,3 +5,10 @@ C:\Projects\C\Tortalettki\obj\Debug\Tortalettki.csproj.AssemblyReference.cache
 C:\Projects\C\Tortalettki\obj\Debug\Tortalettki.csproj.CoreCompileInputs.cache
 C:\Projects\C\Tortalettki\obj\Debug\Tortalettki.exe
 C:\Projects\C\Tortalettki\obj\Debug\Tortalettki.pdb
+C:\Projects\C\Tortiki\obj\Debug\Tortalettki.csproj.AssemblyReference.cache
+C:\Projects\C\Tortiki\obj\Debug\Tortalettki.csproj.CoreCompileInputs.cache
+C:\Projects\C\Tortiki\obj\Debug\Tortalettki.exe
+C:\Projects\C\Tortiki\obj\Debug\Tortalettki.pdb
+C:\Projects\C\Tortiki\bin\Debug\Tortalettki.exe.config
+C:\Projects\C\Tortiki\bin\Debug\Tortalettki.exe
+C:\Projects\C\Tortiki\bin\Debug\Tortalettki.pdb
