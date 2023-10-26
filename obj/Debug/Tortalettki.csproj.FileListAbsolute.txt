@@ -12,3 +12,10 @@ C:\Projects\C\Tortiki\obj\Debug\Tortalettki.pdb
 C:\Projects\C\Tortiki\bin\Debug\Tortalettki.exe.config
 C:\Projects\C\Tortiki\bin\Debug\Tortalettki.exe
 C:\Projects\C\Tortiki\bin\Debug\Tortalettki.pdb
+C:\Users\Миша\Projects\ProjectC\Tortiki\obj\Debug\Tortalettki.csproj.AssemblyReference.cache
+C:\Users\Миша\Projects\ProjectC\Tortiki\obj\Debug\Tortalettki.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Projects\ProjectC\Tortiki\obj\Debug\Tortalettki.exe
+C:\Users\Миша\Projects\ProjectC\Tortiki\obj\Debug\Tortalettki.pdb
+C:\Users\Миша\Projects\ProjectC\Tortiki\bin\Debug\Tortalettki.exe.config
+C:\Users\Миша\Projects\ProjectC\Tortiki\bin\Debug\Tortalettki.exe
+C:\Users\Миша\Projects\ProjectC\Tortiki\bin\Debug\Tortalettki.pdb

@@ -30,14 +30,14 @@ namespace Tortalettki
                     pos--;
                     if (pos == 2)
                     {
-                        pos = 8;
+                        pos = 7;
                     }
                 }
 
                 if (key.Key == ConsoleKey.DownArrow)
                 {
                     pos++;
-                    if (pos == 9)
+                    if (pos == 8)
                     {
                         pos = 3;
                     }

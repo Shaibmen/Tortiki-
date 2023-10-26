@@ -10,6 +10,9 @@ namespace Tortalettki
     {
         public void ShowFirstMenu()
         {
+
+
+
             Console.Clear();
             Console.WriteLine("Кондитерская КОСТЫЛЬ, торты на любой вкус.");
             Console.WriteLine("Выберите параметры торта");
@@ -25,6 +28,7 @@ namespace Tortalettki
 
             Console.WriteLine("Цена: ");
             Console.WriteLine("Ваш торт: ");
+
         }
       
 
