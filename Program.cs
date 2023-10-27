@@ -12,6 +12,7 @@ namespace Tortalettki
     {
         static void Main(string[] args)
         {
+            //метод(желательно 1)
             Order.FirstMenu();
         }
     }
